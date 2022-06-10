@@ -1,0 +1,20 @@
+/target/
+*/target/
+/examples-kafka/target/
+/examples-spark/target/
+/examples-flink (copy)/target/
+/examples-beam/target/
+/spark/target/
+/flink/target/
+/beam/target/
+/hive/target/
+/logs
+.idea/*
+*.iml
+*/.idea/*
+*.ipynb_checkpoints
+*.ipynb_checkpoints/*
+# MacOS
+.DS_Store
+*.md
+/docs
